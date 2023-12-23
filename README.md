@@ -1,2 +1,1 @@
-# ImStillBlessed.github.io
-website address for piresia
+new website using pure html css and javascript
